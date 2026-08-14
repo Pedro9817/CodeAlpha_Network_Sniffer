@@ -1,3 +1,19 @@
+# Code Alpha Cybersecurity Internship Tasks
+
+This repository contains my completed cybersecurity internship tasks, demonstrating practical skills in network analysis, phishing awareness, and secure coding.
+
+## Completed Tasks
+
+### Task 1 — Network Sniffer
+A basic Python network sniffer developed to capture and analyze network packets for cybersecurity learning and traffic analysis.
+
+### Task 2 — Phishing Awareness Training
+A 13-slide PowerPoint presentation covering phishing attacks, fake websites, social engineering, prevention techniques, real-world examples, and an awareness quiz.
+
+### Task 3 — Secure Coding Review
+A Python login application reviewed and improved to demonstrate secure coding practices, including hidden password input, limited login attempts, and improved authentication handling.
+
+---
 # CodeAlpha Network Sniffer
 
 ## Overview
